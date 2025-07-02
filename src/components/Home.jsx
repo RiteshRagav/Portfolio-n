@@ -19,7 +19,7 @@ export default function Home() {
           <h1 className="text-4xl md:text-5xl font-bold text-blue-500 mb-4">
             Hi, I am Ritesh Ragav
           </h1>
-          <h2 className="text-2xl font-semibold mb-2 text-blue-200/80 min-h-[40px]">
+          <h2 className="text-2xl font-semibold mb-2 text-purple-400 min-h-[40px]">
             <Typewriter
               words={[
                 "Full Stack Developer",
