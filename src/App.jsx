@@ -8,7 +8,6 @@ import Certifications from './components/Certifications';
 import Contact from './components/Contact';
 import WorkExperience from './components/WorkExperience';
 import AboutMe from './components/AboutMe';
-import Globe from './components/Globe';
 
 function App() {
   return (
@@ -19,7 +18,6 @@ function App() {
       <main className="relative z-10 w-full">
      
         <Home />
-        <Globe />
         
         <div className="w-full min-h-screen px-2 sm:px-6 py-8 bg-black/40 backdrop-blur-lg rounded-3xl shadow-2xl border border-white/20">
           <AboutMe />
