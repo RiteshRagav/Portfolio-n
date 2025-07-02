@@ -13,7 +13,7 @@ const certifications = [
 
 export default function Certifications() {
   return (
-    <section id="certifications" className="py-20 bg-transparent">
+    <section id="certifications" className="py-20 bg-transparent scroll-mt-24">
       <div className="max-w-3xl mx-auto px-4">
         <h2 className="text-3xl font-bold text-blue-400 mb-10 text-center">Certifications</h2>
         <div className="grid md:grid-cols-2 gap-8">
